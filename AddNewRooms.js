@@ -368,7 +368,7 @@ saveData.addEventListener("click",()=>{
 })
 
 closeSetting.addEventListener("click",()=>{
-  updateSetting.style.top="-75%"
+  updateSetting.style.top="-80%"
 })
 
 
