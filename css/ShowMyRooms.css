@@ -78,7 +78,7 @@ right:  15px;
 .card {
   position: relative;
   width: 55%;
-  height: 9.5em;
+  height: 10em;
   text-align: center;
   margin: 5px;
   border: 1px solid #fff;
@@ -120,7 +120,6 @@ border: none;
   position: absolute;
   left: 10px;
   z-index: 555;
-  bottom:  7px;
 
 }
 
@@ -128,29 +127,7 @@ border: none;
   position: absolute;
   right: 10px;
   z-index: 555;
-  bottom:  7px;
 
-
-}
-.overlay{
-  /* transition: 2s; */
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  /* bottom: 27%; */
-  background-color: #32e072;
-  border-radius: 5px;
-  border-bottom: 2px solid green;
-  z-index: 555;
-  
-}
-.bold{
-font-size: 22px;
-font-weight: 700;
-top: 25px;
-position: relative;
-z-index: 556;
 }
 
 .title-devices{
@@ -420,7 +397,7 @@ font-size: 22px;
     width: 46%;
     position: relative;
 
-    height: 11em;
+    height: 10.5em;
     overflow: hidden;
   }
   .devices .card p,.devicesPush .card p{
@@ -594,7 +571,6 @@ font-size: 12px !important;
 }
 
 }
-
 
 
 
